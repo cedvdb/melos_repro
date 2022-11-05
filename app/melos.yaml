@@ -1,0 +1,8 @@
+name: app
+
+packages:
+  - ../features/**
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
